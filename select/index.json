@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "また誰かの手に救われてしまうから",
+  "base_artist": "Kyiku",
+  "createdAt": "2025-12-13T12:47:05.906861Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また誰かの手に救われてしまうから",
+      "artist": "Kyiku",
+      "has_synced": false,
+      "path": "select/pl_01_また誰かの手に救われてしまうから_Kyiku.txt"
+    }
+  ]
+}
